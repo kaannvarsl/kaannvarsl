@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Kaan Varışlı</h1>
+<h1 align="center">Hello there 👋  I'm Kaan Varışlı</h1>
 
 
 I'm a software developer,developing and maintaining mobile applications. 
@@ -8,6 +8,7 @@ I am passionate about problem solving and software development. I constantly fol
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/kaanvarsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaanvarsl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaan-varışlı-214904225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaan-varışlı-214904225" height="30" width="40" /></a>
 <a href="https://instagram.com/kaannvarsl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaannvarsl" height="30" width="40" /></a>
 </p>
