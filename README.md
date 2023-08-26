@@ -2,7 +2,7 @@
 
 
 I'm a software developer,developing and maintaining mobile applications. 
-I specialize in building rich, high-quality mobile apps for both iOS and Android platforms with React native.Flutter
+I specialize in building rich, high-quality mobile apps for both iOS and Android platforms with React native and Flutter
 In addition , I also have knowledge and experience of popular technologies such as JavaScript, Swift,C#,HTML and CSS.
 I am passionate about problem solving and software development. I constantly follow current technologies and trends and I'm open to improving myself.
 
