@@ -3,7 +3,7 @@
 
 I'm a software developer with over 3 years experience, developing and maintaining mobile applications.
 I specialize in building rich, high-quality mobile apps for both iOS and Android platforms with React Native.
-In addition , I also have knowledge and experience of popular technologies such as JavaScript,React.js,Node.js,Swift ,HTML and CSS.
+In addition , I also have knowledge and experience of popular technologies such as JavaScript,React.js,Node.js,Swift,C#,HTML and CSS.
 I am passionate about problem solving and software development. I constantly follow current technologies and trends and I am open to development.
 
 <h3 align="left">Connect with me:</h3>
