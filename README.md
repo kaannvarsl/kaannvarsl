@@ -1,7 +1,7 @@
 # 👋 Hi I'm Kaan Varışlı
 I'm a software developer with over 3 years experience, developing and maintaining mobile applications. I specialize in building rich, high-quality mobile apps for both iOS and Android platforms with React Native.<br>In addition , I also have knowledge and experience of popular technologies such as JavaScript,TypeScript,React.js,Node.js,Swift,C#, I am passionate about problem solving and software development.<br>I'm a skilled and experienced software developer with a passion for building innovative and user-friendly products. I'm always looking for new challenges and opportunities to learn and grow.
 
-## 📧 Reach me -> vcihankaan98@gmail.com
+## 📧 How to reach me -> vcihankaan98@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaannvarsl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaannvarsl) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kaannvarsl) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kaanvarsl) 
