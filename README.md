@@ -1,5 +1,10 @@
 # 👋 Hi I'm Kaan Varışlı
-I'm a software developer with over 4 years experience, I  have knowledge and experience of popular technologies such as JavaScript,TypeScript,React Native,React,Node.js,Swift,C# and Flutter, I am passionate about problem solving and software development.<br>I'm a skilled and experienced software developer with a passion for building innovative and user-friendly products. I'm always looking for new challenges and opportunities to learn and grow.
+I'm Kaan Varışlı, a dedicated software developer with over 3.5 years of hands-on experience. My expertise spans a wide range of technologies, including JavaScript, TypeScript, React Native, React,Next.js, Node.js, Swift, C#, and Flutter.
+
+I am a highly-motivated individual with a passion for problem-solving and developing software solutions that meet the highest standards. I take pride in staying up-to-date with the latest technologies and trends, and strive to produce high-quality work that exceeds customer expectations.
+
+I thrive on solving complex problems and have a genuine passion for crafting innovative and user-friendly software solutions. I'm always on the lookout for fresh challenges that allow me to learn and grow.
+
 
 ## 📧 How to reach me -> vcihankaan98@gmail.com
 
