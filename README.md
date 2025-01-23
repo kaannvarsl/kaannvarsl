@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@kaannvarsl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="55" height="35" alt="medium logo"  />
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg](https://www.flaticon.com/free-icon/medium_3670098?term=medium&page=1&position=11&origin=tag&related_id=3670098)" width="55" height="35" alt="medium logo"  />
   </a>
 </div>
 
