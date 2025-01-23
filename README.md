@@ -1,4 +1,4 @@
-<p align="left">A passionate software developer with 3.5+ years of experience in building modern, high-quality applications. I specialize in front-end, back-end, and mobile development, delivering scalable and user-centric solutions. I thrive on solving complex problems and have a genuine passion for crafting innovative and user-friendly software solutions. I'm always on the lookout for fresh challenges that allow me to learn and grow.</p>
+<p align="left">A passionate software developer with 3.5+ years of experience in building modern, high-quality applications. I specialize in front-end, back-end, and mobile development, delivering scalable and user-centric solutions. I thrive on solving complex problems and have a genuine passion for crafting innovative and user-friendly software solutions.</p>
 
 ###
 
