@@ -1,4 +1,6 @@
-<p align="left">I’m Kaan Varışlı, a passionate software developer with 4 years of experience in building modern, high-quality applications. I specialize in front-end, back-end, and mobile development.</p>
+<p align="left">Hi, I’m Kaan Varışlı 👋
+Software Developer · 4+ years experience
+I take products from idea to production,engineering reliable systems, scalable APIs, and maintainable user-facing experiences.</p>
 
 ###
 
