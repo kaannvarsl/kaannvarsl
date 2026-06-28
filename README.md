@@ -1,63 +1,67 @@
-<p align="left">Hi, I’m Kaan Varışlı 👋
-Software Developer · 4+ years experience
-I take products from idea to production,engineering reliable systems, scalable APIs, and maintainable user-facing experiences.</p>
+<h1 align="left">About me </h1>
 
-###
+<p align="left"> <strong> I am a software developer with 5+ years of experience building full-stack web, mobile, cloud, automation, and embedded software. </strong> </p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kaannvarsl/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="left">I work across the entire product lifecycle, from idea to production, developing reliable systems, scalable APIs, production infrastructure, and user-focused applications.
+
+My experience includes modern web and mobile development, backend services, databases, cloud deployments, real-time communication, automation workflows, and hardware-integrated software. </p>
+
+<p align="left"> With a strong problem-solving mindset and a commitment to continuous learning, I focus on writing clean, efficient code and building products that create real value for users and stakeholders. </p>
+
+
+### Connect with me
+
+<p align="left">
+  <a href="mailto:vcihankaan98@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="36" height="36" />
   </a>
-  <a href="https://x.com/kaanvarsl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kaannvarsl/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36" />
   </a>
-  <a href="https://medium.com/@kaannvarsl" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  &nbsp;&nbsp;
+  <a href="https://x.com/kaanvarsl">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X" width="36" height="36" />
   </a>
-</div>
+</p>
 
-###
 
-<h2 align="left">I code with</h2>
 
-###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-</div>
+## I code with
 
+### Frontend, Mobile & Native
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,flutter,swift,kotlin" />
+</p>
+
+### Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,go,cs,java,graphql,mysql,rabbitmq,postgres,mongodb,redis" />
+</p>
+
+### Cloud, DevOps & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,firebase,githubactions,vercel,cloudflare" />
+</p>
+
+### Automation, IoT & Embedded Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,arduino,raspberrypi,linux" />
+</p>
+
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaannvarsl/kaannvarsl/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaannvarsl/kaannvarsl/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kaannvarsl/kaannvarsl/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
