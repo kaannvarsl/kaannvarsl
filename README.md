@@ -57,11 +57,12 @@ My experience includes modern web and mobile development, backend services, data
 
 ---
 
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaannvarsl/kaannvarsl/output/github-contribution-grid-snake-dark.svg?v=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaannvarsl/kaannvarsl/output/github-contribution-grid-snake.svg?v=10" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kaannvarsl/kaannvarsl/output/github-contribution-grid-snake.svg?v=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaannvarsl/kaannvarsl/output/github-contribution-grid-snake-dark.svg?v=20" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaannvarsl/kaannvarsl/output/github-contribution-grid-snake.svg?v=20" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kaannvarsl/kaannvarsl/output/github-contribution-grid-snake.svg?v=20" />
   </picture>
 </p>
 
