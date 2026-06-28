@@ -6,7 +6,7 @@
 
 My experience includes modern web and mobile development, backend services, databases, cloud deployments, real-time communication, automation workflows, and hardware-integrated software. </p>
 
-<p align="left"> With a strong problem-solving mindset and a commitment to continuous learning, I focus on writing clean, efficient code and building products that create real value for users and stakeholders. </p>
+<p align="left"> With a strong problem-solving mindset, I continuously improve my skills and knowledge while building clean, efficient, and scalable software solutions that solve real problems and create meaningful value. </p>
 
 
 ### Connect with me
